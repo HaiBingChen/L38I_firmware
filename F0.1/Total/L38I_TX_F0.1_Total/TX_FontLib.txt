@@ -1,8 +1,0 @@
-目标文件:E:\appscomm\L38I\firmware\TX\F0.1\Total\L38I_TX_F0.1_Total\TX_FontLib.bin   大小:0x0019B0C8
-各部分大小如下:
-
-索引                        文件名                                            大小              偏移量            强制插入
- 1      E:\appscomm\L38I\ui\change\合并\TX_FontLib.bin                      0x001987AE        0x00000000             否
- 2      E:\appscomm\L38I\ui\change\合并\TX_LOGO_136X32.bin                  0x00002200        0x001987AE             否
- 3      E:\appscomm\L38I\ui\change\合并\TX_81_33X9.bin                      0x00000252        0x0019A9AE             否
- 4      E:\appscomm\L38I\ui\change\合并\TX_NUMBER_6X9.bin                   0x000004C8        0x0019AC00             否
